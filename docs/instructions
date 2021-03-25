@@ -1,0 +1,29 @@
+Create an account on github - ok
+Create a repository to keep the project - 
+Teach Marina how to fork a project
+
+User interface
+- Links to support
+ + http://www.java2s.com/
+ 
+- Swing 
+ + how create a screen 
+ + how user buttons
+ + how capture user data using JTextField
+ + How create a table to store all registries
+
+Create a bussiness domain which will represent registry
+- Create Classes
+
+Choose a database to store user data
+- Links to support
+ + https://www.tutorialspoint.com/mysql/index.htm
+ + 
+- MySQL
+ + Install
+ + Create a database
+ + Create a table
+ + Insert a user data in that table
+ + Update a user data in that table
+ + Select(Get) a user data from table
+ + Delete the user data from table
